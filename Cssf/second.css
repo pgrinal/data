@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+a.btn {
+    color: white;
+    padding: 10px 20px;
+    width: 35%;
+    border-radius: 20px;
+}
+
+.primary {
+    background-color: #61acb3;
+}
+
+.img-fluid {
+    background: 50%;
+}
+
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+}
+
+.no-outline:focus {
+    outline: none;
+}
